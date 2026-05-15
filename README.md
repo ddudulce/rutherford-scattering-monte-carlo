@@ -54,11 +54,7 @@ The model assumes:
 
 The equation of motion is:
 
-$$
-m\frac{d^2\mathbf{r}}{dt^2}
-=
-\frac{kq_1q_2}{r^3}\mathbf{r}.
-$$
+$$m\frac{d^2\mathbf{r}}{dt^2}=\frac{kq_1q_2}{r^3}\mathbf{r}$$
 
 In the dimensionless implementation, the default values are:
 
