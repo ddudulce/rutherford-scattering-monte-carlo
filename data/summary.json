@@ -1,0 +1,14 @@
+{
+    "n_particles": 300.0,
+    "mean_angle": 0.04204199462493223,
+    "mean_absolute_angle": 0.4467217812848109,
+    "std_angle": 0.5082286173994107,
+    "std_absolute_angle": 0.24462623026046104,
+    "rms_angle": 0.5091197001661597,
+    "min_angle": -1.4029795137925982,
+    "max_angle": 1.7298331303077643,
+    "mean_initial_energy": 0.5049980469096974,
+    "mean_final_energy": 0.504998046909697,
+    "mean_relative_energy_error": 1.0233144878939524e-14,
+    "max_relative_energy_error": 4.0451818482917487e-14
+}
