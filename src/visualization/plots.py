@@ -82,7 +82,7 @@ def plot_scattering_angle_vs_impact_parameter(
 
     plt.xlabel("Absolute impact parameter |b|")
     plt.ylabel("Absolute scattering angle |θ| [rad]")
-    plt.title("Scattering angle as a function of impact parameter")
+    plt.title("Absolute scattering angle as a function of absolute impact parameter")
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
